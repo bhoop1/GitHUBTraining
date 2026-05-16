@@ -6,6 +6,3 @@ const dob = "01/01/1990";
 function sayName() {  console.log(`My name is ${name1}`);
 }
 
-function newFunction() {
-    console.log(`I am ${age} years old and my date of birth is ${dob}`);
-}
